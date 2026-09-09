@@ -1,0 +1,275 @@
+session_id,session_name,session_date,employee_id,email,status,completion_recorded
+A9E-01,Archstone 9 Essentials (Relaunch),2024-04-03,VL-1010,solveig.ramanathan@vandelay.example,Attended,2024-04-05
+A9E-01,Archstone 9 Essentials (Relaunch),2024-04-03,VL-1024,selin.nakamura@vandelay.example,Attended,2024-04-06
+A9E-01,Archstone 9 Essentials (Relaunch),2024-04-03,VL-1030,camille.diallo@vandelay.example,Attended,2024-04-03
+A9E-01,Archstone 9 Essentials (Relaunch),2024-04-03,VL-1172,owen.nwosu@vandelay.example,Attended,2024-04-05
+A9E-01,Archstone 9 Essentials (Relaunch),2024-04-03,VL-1230,daniel.carvalho@vandelay.example,Attended,2024-04-03
+A9E-01,Archstone 9 Essentials (Relaunch),2024-04-03,VL-1050,omar.salazar@vandelay.example,Attended,2024-04-06
+A9E-01,Archstone 9 Essentials (Relaunch),2024-04-03,VL-1140,nadia.aguilar@vandelay.example,Attended,2024-04-03
+A9E-01,Archstone 9 Essentials (Relaunch),2024-04-03,VL-1105,niamh.thornbury@vandelay.example,Attended,2024-04-05
+A9E-01,Archstone 9 Essentials (Relaunch),2024-04-03,VL-1107,grace.nolan@vandelay.example,Attended,2024-04-05
+A9E-01,Archstone 9 Essentials (Relaunch),2024-04-03,VL-1109,amelia.ashcroft@vandelay.example,Attended,2024-04-06
+A9E-01,Archstone 9 Essentials (Relaunch),2024-04-03,VL-1192,tobias.pellegrini@vandelay.example,Registered - No show,
+A9E-01,Archstone 9 Essentials (Relaunch),2024-04-03,VL-1207,marcus.larsson@vandelay.example,Attended,2024-04-05
+A9E-02,Archstone 9 Essentials (Relaunch),2024-04-05,VL-1001,simon.rasmussen@vandelay.example,Attended,2024-04-05
+A9E-02,Archstone 9 Essentials (Relaunch),2024-04-05,VL-1017,lorenzo.alvarado@vandelay.example,Attended,2024-04-06
+A9E-02,Archstone 9 Essentials (Relaunch),2024-04-05,VL-1173,miles.adeyemi@vandelay.example,Attended,2024-04-06
+A9E-02,Archstone 9 Essentials (Relaunch),2024-04-05,VL-1175,kavya.alvarado@vandelay.example,Attended,2024-04-07
+A9E-02,Archstone 9 Essentials (Relaunch),2024-04-05,VL-1136,ada.paredes@vandelay.example,Attended,2024-04-08
+A9E-02,Archstone 9 Essentials (Relaunch),2024-04-05,VL-1142,alina.fontaine@vandelay.example,Attended,2024-04-06
+A9E-02,Archstone 9 Essentials (Relaunch),2024-04-05,VL-1228,anaya.petrov@vandelay.example,Attended,2024-04-06
+A9E-02,Archstone 9 Essentials (Relaunch),2024-04-05,VL-1072,chloe.okafor@vandelay.example,Attended,2024-04-06
+A9E-02,Archstone 9 Essentials (Relaunch),2024-04-05,VL-1163,bram.moreau@vandelay.example,Attended,2024-04-05
+A9E-02,Archstone 9 Essentials (Relaunch),2024-04-05,VL-1224,della.moreau@vandelay.example,Attended,2024-04-08
+A9E-02,Archstone 9 Essentials (Relaunch),2024-04-05,VL-1009,malik.blackwood@vandelay.example,Attended,2024-04-06
+A9E-03,Archstone 9 Essentials (Relaunch),2024-04-09,VL-1021,reuben.kowalczyk@vandelay.example,Registered - No show,
+A9E-03,Archstone 9 Essentials (Relaunch),2024-04-09,VL-1150,yara.oduya@vandelay.example,Attended,2024-04-12
+A9E-03,Archstone 9 Essentials (Relaunch),2024-04-09,VL-1148,nathan.sorensen@vandelay.example,Attended,2024-04-11
+A9E-03,Archstone 9 Essentials (Relaunch),2024-04-09,VL-1219,reuben.rutherford@vandelay.example,Attended,2024-04-11
+A9E-03,Archstone 9 Essentials (Relaunch),2024-04-09,VL-1089,marcus.villanueva@vandelay.example,Registered - No show,
+A9E-03,Archstone 9 Essentials (Relaunch),2024-04-09,VL-1155,oliver.holloway@vandelay.example,Attended,2024-04-12
+A9E-03,Archstone 9 Essentials (Relaunch),2024-04-09,VL-1098,ines.okonkwo@vandelay.example,Attended,2024-04-10
+A9E-03,Archstone 9 Essentials (Relaunch),2024-04-09,VL-1129,dalia.nordin@vandelay.example,Registered - No show,
+A9E-03,Archstone 9 Essentials (Relaunch),2024-04-09,VL-1197,ignacio.nwosu@vandelay.example,Attended,2024-04-11
+A9E-04,Archstone 9 Essentials (Relaunch),2024-04-11,VL-1002,aisha.villanueva@vandelay.example,Attended,2024-04-11
+A9E-04,Archstone 9 Essentials (Relaunch),2024-04-11,VL-1168,benedict.fairbanks@vandelay.example,Attended,2024-04-14
+A9E-04,Archstone 9 Essentials (Relaunch),2024-04-11,VL-1056,tessa.voss@vandelay.example,Attended,2024-04-12
+A9E-04,Archstone 9 Essentials (Relaunch),2024-04-11,VL-1073,chloe.bassett@vandelay.example,Registered - No show,
+A9E-04,Archstone 9 Essentials (Relaunch),2024-04-11,VL-1158,anaya.salazar@vandelay.example,Attended,2024-04-13
+A9E-04,Archstone 9 Essentials (Relaunch),2024-04-11,VL-1187,simon.espinoza@vandelay.example,Attended,2024-04-11
+A9E-04,Archstone 9 Essentials (Relaunch),2024-04-11,VL-1007,esme.marchetti@vandelay.example,Registered - No show,
+A9E-04,Archstone 9 Essentials (Relaunch),2024-04-11,VL-1111,grace.pemberton@vandelay.example,Registered - No show,
+A9E-04,Archstone 9 Essentials (Relaunch),2024-04-11,VL-1114,marcel.lucero@vandelay.example,Attended,2024-04-14
+A9E-04,Archstone 9 Essentials (Relaunch),2024-04-11,VL-1201,sofia.pellegrini@vandelay.example,Attended,2024-04-12
+A9E-04,Archstone 9 Essentials (Relaunch),2024-04-11,VL-1202,lorenzo.fontaine@vandelay.example,Attended,2024-04-11
+A9E-05,Archstone 9 Essentials (Relaunch),2024-04-16,VL-1169,marcel.obi@vandelay.example,Attended,2024-04-16
+A9E-05,Archstone 9 Essentials (Relaunch),2024-04-16,VL-1160,hana.sorensen@vandelay.example,Attended,2024-04-16
+A9E-05,Archstone 9 Essentials (Relaunch),2024-04-16,VL-1096,zara.oyelaran@vandelay.example,Attended,2024-04-19
+A9E-05,Archstone 9 Essentials (Relaunch),2024-04-16,VL-1177,victor.petrov@vandelay.example,Attended,2024-04-19
+A9E-05,Archstone 9 Essentials (Relaunch),2024-04-16,VL-1211,keira.bassett@vandelay.example,Attended,2024-04-19
+A9E-06,Archstone 9 Essentials (Relaunch),2024-04-18,VL-1025,sienna.pereira@vandelay.example,Attended,2024-04-19
+A9E-06,Archstone 9 Essentials (Relaunch),2024-04-18,VL-1174,arjun.okafor@vandelay.example,Attended,2024-04-19
+A9E-06,Archstone 9 Essentials (Relaunch),2024-04-18,VL-1227,simon.anand@vandelay.example,Attended,2024-04-19
+A9E-06,Archstone 9 Essentials (Relaunch),2024-04-18,VL-1220,keira.osei@vandelay.example,Attended,2024-04-18
+A9E-06,Archstone 9 Essentials (Relaunch),2024-04-18,VL-1108,poppy.whitmore@vandelay.example,Attended,2024-04-21
+A9E-06,Archstone 9 Essentials (Relaunch),2024-04-18,VL-1193,leila.alvarado@vandelay.example,Attended,2024-04-18
+A9E-06,Archstone 9 Essentials (Relaunch),2024-04-18,VL-1200,wren.petrov@vandelay.example,Attended,2024-04-20
+A9E-07,Archstone 9 Essentials (Relaunch),2024-04-23,VL-1217,ruth.osman@vandelay.example,Attended,2024-04-24
+A9E-07,Archstone 9 Essentials (Relaunch),2024-04-23,VL-1038,nia.rutherford@vandelay.example,Attended,2024-04-24
+A9E-07,Archstone 9 Essentials (Relaunch),2024-04-23,VL-1170,kenji.achebe@vandelay.example,Attended,2024-04-25
+A9E-07,Archstone 9 Essentials (Relaunch),2024-04-23,VL-1052,tamar.chowdhury@vandelay.example,Attended,2024-04-26
+A9E-07,Archstone 9 Essentials (Relaunch),2024-04-23,VL-1057,mei.whitfield@vandelay.example,Attended,2024-04-23
+A9E-07,Archstone 9 Essentials (Relaunch),2024-04-23,VL-1145,esme.ramanathan@vandelay.example,Attended,2024-04-24
+A9E-07,Archstone 9 Essentials (Relaunch),2024-04-23,VL-1087,maya.fitzgerald@vandelay.example,Attended,2024-04-24
+A9E-07,Archstone 9 Essentials (Relaunch),2024-04-23,VL-1209,emmett.bhatt@vandelay.example,Attended,2024-04-25
+A9E-08,Archstone 9 Essentials (Relaunch),2024-04-25,VL-1032,kwame.delgado@vandelay.example,Attended,2024-04-25
+A9E-08,Archstone 9 Essentials (Relaunch),2024-04-25,VL-1040,cormac.abubakar@vandelay.example,Registered - No show,
+A9E-08,Archstone 9 Essentials (Relaunch),2024-04-25,VL-1152,ingrid.larsson@vandelay.example,Attended,2024-04-26
+A9E-08,Archstone 9 Essentials (Relaunch),2024-04-25,VL-1063,miles.lucero@vandelay.example,Attended,2024-04-25
+A9E-08,Archstone 9 Essentials (Relaunch),2024-04-25,VL-1149,reuben.mireille@vandelay.example,Attended,2024-04-28
+A9E-08,Archstone 9 Essentials (Relaunch),2024-04-25,VL-1189,diego.ramirez@vandelay.example,Attended,2024-04-26
+A9E-08,Archstone 9 Essentials (Relaunch),2024-04-25,VL-1006,leila.reyes@vandelay.example,Registered - No show,
+A9E-09,Archstone 9 Essentials (Relaunch),2024-05-02,VL-1015,bram.contreras@vandelay.example,Attended,2024-05-02
+A9E-09,Archstone 9 Essentials (Relaunch),2024-05-02,VL-1022,kwame.baptiste@vandelay.example,Attended,2024-05-02
+A9E-09,Archstone 9 Essentials (Relaunch),2024-05-02,VL-1035,miles.mbeki@vandelay.example,Attended,2024-05-05
+A9E-09,Archstone 9 Essentials (Relaunch),2024-05-02,VL-1166,mei.rasmussen@vandelay.example,Attended,2024-05-04
+A9E-09,Archstone 9 Essentials (Relaunch),2024-05-02,VL-1157,sofia.ashworth@vandelay.example,Attended,2024-05-02
+A9E-09,Archstone 9 Essentials (Relaunch),2024-05-02,VL-1225,idris.bergstrom@vandelay.example,Attended,2024-05-02
+A9E-09,Archstone 9 Essentials (Relaunch),2024-05-02,VL-1196,tariq.rowe@vandelay.example,Attended,2024-05-03
+A9E-09,Archstone 9 Essentials (Relaunch),2024-05-02,VL-1213,ingrid.sorensen@vandelay.example,Attended,2024-05-02
+A9E-10,Archstone 9 Essentials (Relaunch),2024-05-07,VL-1042,ezra.molnar@vandelay.example,Attended,2024-05-08
+A9E-10,Archstone 9 Essentials (Relaunch),2024-05-07,VL-1139,lorenzo.nwosu@vandelay.example,Attended,2024-05-09
+A9E-10,Archstone 9 Essentials (Relaunch),2024-05-07,VL-1147,idris.ferreira@vandelay.example,Attended,2024-05-10
+A9E-10,Archstone 9 Essentials (Relaunch),2024-05-07,VL-1179,theo.okoro@vandelay.example,Attended,2024-05-09
+A9E-10,Archstone 9 Essentials (Relaunch),2024-05-07,VL-1183,lucia.kapoor@vandelay.example,Attended,2024-05-09
+A9E-10,Archstone 9 Essentials (Relaunch),2024-05-07,VL-1066,wei.goh@vandelay.example,Attended,2024-05-09
+A9E-10,Archstone 9 Essentials (Relaunch),2024-05-07,VL-1185,iris.chowdhury@vandelay.example,Attended,2024-05-09
+A9E-10,Archstone 9 Essentials (Relaunch),2024-05-07,VL-1134,callum.diallo@vandelay.example,Attended,2024-05-07
+A9E-11,Archstone 9 Essentials (Relaunch),2024-05-14,VL-1013,rohan.okafor@vandelay.example,Attended,2024-05-14
+A9E-11,Archstone 9 Essentials (Relaunch),2024-05-14,VL-1018,devin.okoro@vandelay.example,Attended,2024-05-17
+A9E-11,Archstone 9 Essentials (Relaunch),2024-05-14,VL-1019,miles.castillo@vandelay.example,Registered - No show,
+A9E-11,Archstone 9 Essentials (Relaunch),2024-05-14,VL-1171,sienna.okonkwo@vandelay.example,Attended,2024-05-17
+A9E-11,Archstone 9 Essentials (Relaunch),2024-05-14,VL-1003,ines.duarte@vandelay.example,Attended,2024-05-16
+A9E-11,Archstone 9 Essentials (Relaunch),2024-05-14,VL-1181,amara.okafor@vandelay.example,Attended,2024-05-15
+A9E-11,Archstone 9 Essentials (Relaunch),2024-05-14,VL-1222,rosa.diallo@vandelay.example,Attended,2024-05-16
+A9E-11,Archstone 9 Essentials (Relaunch),2024-05-14,VL-1120,greta.villanueva@vandelay.example,Attended,2024-05-16
+A9E-11,Archstone 9 Essentials (Relaunch),2024-05-14,VL-1125,anaya.ramanathan@vandelay.example,Registered - No show,
+A9E-12,Archstone 9 Essentials (Relaunch),2024-05-21,VL-1033,tamar.fontaine@vandelay.example,Registered - No show,
+A9E-12,Archstone 9 Essentials (Relaunch),2024-05-21,VL-1039,ruth.ferrer@vandelay.example,Attended,2024-05-22
+A9E-12,Archstone 9 Essentials (Relaunch),2024-05-21,VL-1043,idris.kessler@vandelay.example,Registered - No show,
+A9E-12,Archstone 9 Essentials (Relaunch),2024-05-21,VL-1045,renata.beaumont@vandelay.example,Attended,2024-05-23
+A9E-12,Archstone 9 Essentials (Relaunch),2024-05-21,VL-1184,nathan.obi@vandelay.example,Attended,2024-05-24
+A9E-12,Archstone 9 Essentials (Relaunch),2024-05-21,VL-1070,caleb.achebe@vandelay.example,Attended,2024-05-23
+A9E-12,Archstone 9 Essentials (Relaunch),2024-05-21,VL-1156,dalia.mahmoud@vandelay.example,Attended,2024-05-24
+A9E-12,Archstone 9 Essentials (Relaunch),2024-05-21,VL-1101,emmett.kessler@vandelay.example,Attended,2024-05-23
+ASW-01,Advanced Search and Workspaces,2024-06-11,VL-1025,sienna.pereira@vandelay.example,Attended,2024-06-13
+ASW-01,Advanced Search and Workspaces,2024-06-11,VL-1154,declan.hargreaves@vandelay.example,Attended,2024-06-13
+ASW-01,Advanced Search and Workspaces,2024-06-11,VL-1171,sienna.okonkwo@vandelay.example,Attended,2024-06-13
+ASW-01,Advanced Search and Workspaces,2024-06-11,VL-1174,arjun.okafor@vandelay.example,Attended,2024-06-12
+ASW-01,Advanced Search and Workspaces,2024-06-11,VL-1052,tamar.chowdhury@vandelay.example,Attended,2024-06-12
+ASW-01,Advanced Search and Workspaces,2024-06-11,VL-1055,omar.ferreira@vandelay.example,Attended,2024-06-14
+ASW-01,Advanced Search and Workspaces,2024-06-11,VL-1056,tessa.voss@vandelay.example,Attended,2024-06-11
+ASW-01,Advanced Search and Workspaces,2024-06-11,VL-1139,lorenzo.nwosu@vandelay.example,Attended,2024-06-11
+ASW-01,Advanced Search and Workspaces,2024-06-11,VL-1148,nathan.sorensen@vandelay.example,Attended,2024-06-14
+ASW-01,Advanced Search and Workspaces,2024-06-11,VL-1076,nathan.alvarado@vandelay.example,Attended,2024-06-14
+ASW-01,Advanced Search and Workspaces,2024-06-11,VL-1220,keira.osei@vandelay.example,Attended,2024-06-13
+ASW-01,Advanced Search and Workspaces,2024-06-11,VL-1224,della.moreau@vandelay.example,Attended,2024-06-13
+ASW-01,Advanced Search and Workspaces,2024-06-11,VL-1201,sofia.pellegrini@vandelay.example,Attended,2024-06-11
+ASW-01,Advanced Search and Workspaces,2024-06-11,VL-1205,julian.espinoza@vandelay.example,Attended,2024-06-13
+ASW-01,Advanced Search and Workspaces,2024-06-11,VL-1213,ingrid.sorensen@vandelay.example,Attended,2024-06-13
+ASW-01,Advanced Search and Workspaces,2024-06-11,VL-1226,greta.rowe@vandelay.example,Attended,2024-06-11
+ASW-02,Advanced Search and Workspaces,2024-06-13,VL-1164,daniel.ellison@vandelay.example,Attended,2024-06-14
+ASW-02,Advanced Search and Workspaces,2024-06-13,VL-1168,benedict.fairbanks@vandelay.example,Attended,2024-06-14
+ASW-02,Advanced Search and Workspaces,2024-06-13,VL-1048,emmett.gallagher@vandelay.example,Attended,2024-06-15
+ASW-02,Advanced Search and Workspaces,2024-06-13,VL-1080,emmett.whitfield@vandelay.example,Attended,2024-06-16
+ASW-02,Advanced Search and Workspaces,2024-06-13,VL-1189,diego.ramirez@vandelay.example,Attended,2024-06-14
+ASW-02,Advanced Search and Workspaces,2024-06-13,VL-1185,iris.chowdhury@vandelay.example,Attended,2024-06-13
+ASW-02,Advanced Search and Workspaces,2024-06-13,VL-1117,anaya.bassett@vandelay.example,Attended,2024-06-14
+ASW-02,Advanced Search and Workspaces,2024-06-13,VL-1198,ezra.hartmann@vandelay.example,Attended,2024-06-13
+ASW-02,Advanced Search and Workspaces,2024-06-13,VL-1200,wren.petrov@vandelay.example,Attended,2024-06-14
+ASW-02,Advanced Search and Workspaces,2024-06-13,VL-1215,kwame.oyelaran@vandelay.example,Attended,2024-06-15
+ASW-03,Advanced Search and Workspaces,2024-06-20,VL-1230,daniel.carvalho@vandelay.example,Attended,2024-06-21
+ASW-03,Advanced Search and Workspaces,2024-06-20,VL-1042,ezra.molnar@vandelay.example,Attended,2024-06-21
+ASW-03,Advanced Search and Workspaces,2024-06-20,VL-1043,idris.kessler@vandelay.example,Attended,2024-06-23
+ASW-03,Advanced Search and Workspaces,2024-06-20,VL-1049,sienna.mensah@vandelay.example,Attended,2024-06-23
+ASW-03,Advanced Search and Workspaces,2024-06-20,VL-1050,omar.salazar@vandelay.example,Attended,2024-06-20
+ASW-03,Advanced Search and Workspaces,2024-06-20,VL-1063,miles.lucero@vandelay.example,Attended,2024-06-22
+ASW-03,Advanced Search and Workspaces,2024-06-20,VL-1147,idris.ferreira@vandelay.example,Attended,2024-06-20
+ASW-03,Advanced Search and Workspaces,2024-06-20,VL-1074,henry.alvarado@vandelay.example,Attended,2024-06-20
+ASW-03,Advanced Search and Workspaces,2024-06-20,VL-1158,anaya.salazar@vandelay.example,Attended,2024-06-23
+ASW-03,Advanced Search and Workspaces,2024-06-20,VL-1005,lina.mbeki@vandelay.example,Attended,2024-06-21
+ASW-03,Advanced Search and Workspaces,2024-06-20,VL-1089,marcus.villanueva@vandelay.example,Attended,2024-06-22
+ASW-03,Advanced Search and Workspaces,2024-06-20,VL-1186,felix.ellison@vandelay.example,Attended,2024-06-20
+ASW-03,Advanced Search and Workspaces,2024-06-20,VL-1109,amelia.ashcroft@vandelay.example,Attended,2024-06-21
+ASW-03,Advanced Search and Workspaces,2024-06-20,VL-1126,farah.mwangi@vandelay.example,Attended,2024-06-20
+ASW-03,Advanced Search and Workspaces,2024-06-20,VL-1129,dalia.nordin@vandelay.example,Attended,2024-06-20
+ASW-03,Advanced Search and Workspaces,2024-06-20,VL-1177,victor.petrov@vandelay.example,Attended,2024-06-22
+ASW-03,Advanced Search and Workspaces,2024-06-20,VL-1204,tariq.karlsson@vandelay.example,Attended,2024-06-20
+OFM-01,Outlook Filing and Email Management,2024-09-10,VL-1025,sienna.pereira@vandelay.example,Attended,2024-09-13
+OFM-01,Outlook Filing and Email Management,2024-09-10,VL-1030,camille.diallo@vandelay.example,Attended,2024-09-13
+OFM-01,Outlook Filing and Email Management,2024-09-10,VL-1151,kavya.sinclair@vandelay.example,Attended,2024-09-13
+OFM-01,Outlook Filing and Email Management,2024-09-10,VL-1175,kavya.alvarado@vandelay.example,Attended,2024-09-11
+OFM-01,Outlook Filing and Email Management,2024-09-10,VL-1230,daniel.carvalho@vandelay.example,Attended,2024-09-13
+OFM-01,Outlook Filing and Email Management,2024-09-10,VL-1045,renata.beaumont@vandelay.example,Attended,2024-09-10
+OFM-01,Outlook Filing and Email Management,2024-09-10,VL-1060,maya.abubakar@vandelay.example,Attended,2024-09-10
+OFM-01,Outlook Filing and Email Management,2024-09-10,VL-1136,ada.paredes@vandelay.example,Attended,2024-09-11
+OFM-01,Outlook Filing and Email Management,2024-09-10,VL-1139,lorenzo.nwosu@vandelay.example,Attended,2024-09-12
+OFM-01,Outlook Filing and Email Management,2024-09-10,VL-1141,sofia.ekwueme@vandelay.example,Attended,2024-09-13
+OFM-01,Outlook Filing and Email Management,2024-09-10,VL-1147,idris.ferreira@vandelay.example,Attended,2024-09-13
+OFM-01,Outlook Filing and Email Management,2024-09-10,VL-1148,nathan.sorensen@vandelay.example,Attended,2024-09-13
+OFM-01,Outlook Filing and Email Management,2024-09-10,VL-1179,theo.okoro@vandelay.example,Attended,2024-09-11
+OFM-01,Outlook Filing and Email Management,2024-09-10,VL-1181,amara.okafor@vandelay.example,Attended,2024-09-13
+OFM-01,Outlook Filing and Email Management,2024-09-10,VL-1183,lucia.kapoor@vandelay.example,Attended,2024-09-13
+OFM-01,Outlook Filing and Email Management,2024-09-10,VL-1189,diego.ramirez@vandelay.example,Attended,2024-09-12
+OFM-01,Outlook Filing and Email Management,2024-09-10,VL-1155,oliver.holloway@vandelay.example,Attended,2024-09-13
+OFM-01,Outlook Filing and Email Management,2024-09-10,VL-1109,amelia.ashcroft@vandelay.example,Attended,2024-09-11
+OFM-01,Outlook Filing and Email Management,2024-09-10,VL-1163,bram.moreau@vandelay.example,Attended,2024-09-10
+OFM-01,Outlook Filing and Email Management,2024-09-10,VL-1178,rosa.torvik@vandelay.example,Attended,2024-09-12
+OFM-01,Outlook Filing and Email Management,2024-09-10,VL-1225,idris.bergstrom@vandelay.example,Attended,2024-09-11
+OFM-01,Outlook Filing and Email Management,2024-09-10,VL-1193,leila.alvarado@vandelay.example,Attended,2024-09-10
+OFM-01,Outlook Filing and Email Management,2024-09-10,VL-1198,ezra.hartmann@vandelay.example,Attended,2024-09-12
+OFM-02,Outlook Filing and Email Management,2024-09-17,VL-1032,kwame.delgado@vandelay.example,Attended,2024-09-19
+OFM-02,Outlook Filing and Email Management,2024-09-17,VL-1150,yara.oduya@vandelay.example,Attended,2024-09-18
+OFM-02,Outlook Filing and Email Management,2024-09-17,VL-1154,declan.hargreaves@vandelay.example,Attended,2024-09-19
+OFM-02,Outlook Filing and Email Management,2024-09-17,VL-1164,daniel.ellison@vandelay.example,Attended,2024-09-20
+OFM-02,Outlook Filing and Email Management,2024-09-17,VL-1170,kenji.achebe@vandelay.example,Attended,2024-09-19
+OFM-02,Outlook Filing and Email Management,2024-09-17,VL-1042,ezra.molnar@vandelay.example,Attended,2024-09-20
+OFM-02,Outlook Filing and Email Management,2024-09-17,VL-1043,idris.kessler@vandelay.example,Attended,2024-09-17
+OFM-02,Outlook Filing and Email Management,2024-09-17,VL-1050,omar.salazar@vandelay.example,Attended,2024-09-20
+OFM-02,Outlook Filing and Email Management,2024-09-17,VL-1144,ada.obi@vandelay.example,Attended,2024-09-20
+OFM-02,Outlook Filing and Email Management,2024-09-17,VL-1184,nathan.obi@vandelay.example,Attended,2024-09-19
+OFM-02,Outlook Filing and Email Management,2024-09-17,VL-1227,simon.anand@vandelay.example,Attended,2024-09-18
+OFM-02,Outlook Filing and Email Management,2024-09-17,VL-1080,emmett.whitfield@vandelay.example,Attended,2024-09-19
+OFM-02,Outlook Filing and Email Management,2024-09-17,VL-1158,anaya.salazar@vandelay.example,Attended,2024-09-19
+OFM-02,Outlook Filing and Email Management,2024-09-17,VL-1160,hana.sorensen@vandelay.example,Attended,2024-09-17
+OFM-02,Outlook Filing and Email Management,2024-09-17,VL-1220,keira.osei@vandelay.example,Attended,2024-09-17
+OFM-02,Outlook Filing and Email Management,2024-09-17,VL-1157,sofia.ashworth@vandelay.example,Attended,2024-09-18
+OFM-02,Outlook Filing and Email Management,2024-09-17,VL-1185,iris.chowdhury@vandelay.example,Attended,2024-09-18
+OFM-02,Outlook Filing and Email Management,2024-09-17,VL-1222,rosa.diallo@vandelay.example,Attended,2024-09-18
+OFM-02,Outlook Filing and Email Management,2024-09-17,VL-1007,esme.marchetti@vandelay.example,Attended,2024-09-17
+OFM-02,Outlook Filing and Email Management,2024-09-17,VL-1120,greta.villanueva@vandelay.example,Attended,2024-09-18
+OFM-02,Outlook Filing and Email Management,2024-09-17,VL-1224,della.moreau@vandelay.example,Attended,2024-09-20
+OFM-02,Outlook Filing and Email Management,2024-09-17,VL-1177,victor.petrov@vandelay.example,Attended,2024-09-19
+OFM-02,Outlook Filing and Email Management,2024-09-17,VL-1197,ignacio.nwosu@vandelay.example,Attended,2024-09-17
+MRA-01,Mobile and Remote Access,2025-01-22,VL-1001,simon.rasmussen@vandelay.example,Attended,2025-01-25
+MRA-01,Mobile and Remote Access,2025-01-22,VL-1010,solveig.ramanathan@vandelay.example,Attended,2025-01-25
+MRA-01,Mobile and Remote Access,2025-01-22,VL-1018,devin.okoro@vandelay.example,Attended,2025-01-22
+MRA-01,Mobile and Remote Access,2025-01-22,VL-1019,miles.castillo@vandelay.example,Attended,2025-01-24
+MRA-01,Mobile and Remote Access,2025-01-22,VL-1024,selin.nakamura@vandelay.example,Attended,2025-01-23
+MRA-01,Mobile and Remote Access,2025-01-22,VL-1025,sienna.pereira@vandelay.example,Attended,2025-01-24
+MRA-01,Mobile and Remote Access,2025-01-22,VL-1030,camille.diallo@vandelay.example,Attended,2025-01-23
+MRA-01,Mobile and Remote Access,2025-01-22,VL-1045,renata.beaumont@vandelay.example,Attended,2025-01-23
+MRA-01,Mobile and Remote Access,2025-01-22,VL-1049,sienna.mensah@vandelay.example,Attended,2025-01-23
+MRA-01,Mobile and Remote Access,2025-01-22,VL-1055,omar.ferreira@vandelay.example,Attended,2025-01-25
+MRA-01,Mobile and Remote Access,2025-01-22,VL-1062,daniel.wozniak@vandelay.example,Attended,2025-01-23
+MRA-01,Mobile and Remote Access,2025-01-22,VL-1144,ada.obi@vandelay.example,Attended,2025-01-23
+MRA-01,Mobile and Remote Access,2025-01-22,VL-1147,idris.ferreira@vandelay.example,Attended,2025-01-23
+MRA-01,Mobile and Remote Access,2025-01-22,VL-1183,lucia.kapoor@vandelay.example,Attended,2025-01-24
+MRA-01,Mobile and Remote Access,2025-01-22,VL-1066,wei.goh@vandelay.example,Attended,2025-01-22
+MRA-01,Mobile and Remote Access,2025-01-22,VL-1068,mariana.sanchez@vandelay.example,Attended,2025-01-22
+MRA-01,Mobile and Remote Access,2025-01-22,VL-1069,poppy.thornbury@vandelay.example,Attended,2025-01-24
+MRA-01,Mobile and Remote Access,2025-01-22,VL-1160,hana.sorensen@vandelay.example,Attended,2025-01-22
+MRA-01,Mobile and Remote Access,2025-01-22,VL-1089,marcus.villanueva@vandelay.example,Attended,2025-01-23
+MRA-01,Mobile and Remote Access,2025-01-22,VL-1090,felix.brennan@vandelay.example,Attended,2025-01-23
+MRA-01,Mobile and Remote Access,2025-01-22,VL-1006,leila.reyes@vandelay.example,Attended,2025-01-22
+MRA-01,Mobile and Remote Access,2025-01-22,VL-1095,andre.pereira@vandelay.example,Attended,2025-01-22
+MRA-01,Mobile and Remote Access,2025-01-22,VL-1102,tariq.beaumont@vandelay.example,Attended,2025-01-22
+MRA-01,Mobile and Remote Access,2025-01-22,VL-1116,hana.okoro@vandelay.example,Attended,2025-01-23
+MRA-01,Mobile and Remote Access,2025-01-22,VL-1117,anaya.bassett@vandelay.example,Attended,2025-01-24
+MRA-01,Mobile and Remote Access,2025-01-22,VL-1163,bram.moreau@vandelay.example,Attended,2025-01-24
+MRA-01,Mobile and Remote Access,2025-01-22,VL-1224,della.moreau@vandelay.example,Attended,2025-01-23
+MRA-01,Mobile and Remote Access,2025-01-22,VL-1009,malik.blackwood@vandelay.example,Attended,2025-01-22
+MRA-01,Mobile and Remote Access,2025-01-22,VL-1205,julian.espinoza@vandelay.example,Attended,2025-01-23
+NJO-02,New Joiner DMS Orientation,2025-01-28,VL-1058,lina.zielinski@vandelay.example,Attended,2025-01-30
+NJO-03,New Joiner DMS Orientation,2025-04-29,VL-1146,victor.whitfield@vandelay.example,Attended,2025-05-02
+NJO-03,New Joiner DMS Orientation,2025-04-29,VL-1132,rosa.kowalczyk@vandelay.example,Attended,2025-04-30
+IAI-01,Insight AI Pilot Onboarding,2025-10-07,VL-1114,marcel.lucero@vandelay.example,Registered - No show,
+IAI-01,Insight AI Pilot Onboarding,2025-10-07,VL-1203,gabriel.diallo@vandelay.example,Attended,2025-10-07
+IAI-01,Insight AI Pilot Onboarding,2025-10-07,VL-1183,lucia.kapoor@vandelay.example,Attended,2025-10-10
+IAI-01,Insight AI Pilot Onboarding,2025-10-07,VL-1164,daniel.ellison@vandelay.example,Attended,2025-10-09
+IAI-01,Insight AI Pilot Onboarding,2025-10-07,VL-1215,kwame.oyelaran@vandelay.example,Attended,2025-10-09
+IAI-01,Insight AI Pilot Onboarding,2025-10-07,VL-1207,marcus.larsson@vandelay.example,Attended,2025-10-09
+IAI-01,Insight AI Pilot Onboarding,2025-10-07,VL-1213,ingrid.sorensen@vandelay.example,Registered - No show,
+IAI-01,Insight AI Pilot Onboarding,2025-10-07,VL-1180,ada.bhatt@vandelay.example,Attended,2025-10-09
+IAI-01,Insight AI Pilot Onboarding,2025-10-07,VL-1146,victor.whitfield@vandelay.example,Attended,2025-10-09
+IAI-01,Insight AI Pilot Onboarding,2025-10-07,VL-1138,mei.nwosu@vandelay.example,Attended,2025-10-07
+IAI-01,Insight AI Pilot Onboarding,2025-10-07,VL-1206,devin.blackwood@vandelay.example,Attended,2025-10-10
+IAI-01,Insight AI Pilot Onboarding,2025-10-07,VL-1037,nathan.novak@vandelay.example,Attended,2025-10-08
+IAI-01,Insight AI Pilot Onboarding,2025-10-07,VL-1204,tariq.karlsson@vandelay.example,Attended,2025-10-07
+IAI-01,Insight AI Pilot Onboarding,2025-10-07,VL-1105,niamh.thornbury@vandelay.example,Attended,2025-10-09
+IAI-01,Insight AI Pilot Onboarding,2025-10-07,VL-1003,ines.duarte@vandelay.example,Attended,2025-10-07
+IAI-01,Insight AI Pilot Onboarding,2025-10-07,VL-1015,bram.contreras@vandelay.example,Attended,2025-10-10
+IAI-01,Insight AI Pilot Onboarding,2025-10-07,VL-1211,keira.bassett@vandelay.example,Attended,2025-10-10
+IAI-01,Insight AI Pilot Onboarding,2025-10-07,VL-1047,caleb.espinoza@vandelay.example,Attended,2025-10-10
+IAI-01,Insight AI Pilot Onboarding,2025-10-07,VL-1167,leo.mbeki@vandelay.example,Attended,2025-10-08
+IAI-01,Insight AI Pilot Onboarding,2025-10-07,VL-1113,dalia.achebe@vandelay.example,Attended,2025-10-08
+IAI-01,Insight AI Pilot Onboarding,2025-10-07,VL-1107,grace.nolan@vandelay.example,Attended,2025-10-07
+IAI-01,Insight AI Pilot Onboarding,2025-10-07,VL-1184,nathan.obi@vandelay.example,Attended,2025-10-10
+IAI-01,Insight AI Pilot Onboarding,2025-10-07,VL-1171,sienna.okonkwo@vandelay.example,Registered - No show,
+IAI-01,Insight AI Pilot Onboarding,2025-10-07,VL-1208,felix.sandoval@vandelay.example,Attended,2025-10-09
+IAI-01,Insight AI Pilot Onboarding,2025-10-07,VL-1052,tamar.chowdhury@vandelay.example,Attended,2025-10-09
+IAI-01,Insight AI Pilot Onboarding,2025-10-07,VL-1154,declan.hargreaves@vandelay.example,Attended,2025-10-09
+IAI-01,Insight AI Pilot Onboarding,2025-10-07,VL-1205,julian.espinoza@vandelay.example,Registered - No show,
+IAI-02,Insight AI Pilot Onboarding,2025-10-09,VL-1214,adrian.nwosu@vandelay.example,Attended,2025-10-10
+IAI-02,Insight AI Pilot Onboarding,2025-10-09,VL-1150,yara.oduya@vandelay.example,Attended,2025-10-11
+IAI-02,Insight AI Pilot Onboarding,2025-10-09,VL-1022,kwame.baptiste@vandelay.example,Attended,2025-10-12
+IAI-02,Insight AI Pilot Onboarding,2025-10-09,VL-1142,alina.fontaine@vandelay.example,Attended,2025-10-11
+IAI-02,Insight AI Pilot Onboarding,2025-10-09,VL-1173,miles.adeyemi@vandelay.example,Registered - No show,
+IAI-02,Insight AI Pilot Onboarding,2025-10-09,VL-1169,marcel.obi@vandelay.example,Registered - No show,
+IAI-02,Insight AI Pilot Onboarding,2025-10-09,VL-1166,mei.rasmussen@vandelay.example,Registered - No show,
+IAI-02,Insight AI Pilot Onboarding,2025-10-09,VL-1032,kwame.delgado@vandelay.example,Attended,2025-10-10
+IAI-02,Insight AI Pilot Onboarding,2025-10-09,VL-1168,benedict.fairbanks@vandelay.example,Attended,2025-10-09
+IAI-02,Insight AI Pilot Onboarding,2025-10-09,VL-1109,amelia.ashcroft@vandelay.example,Attended,2025-10-09
+IAI-02,Insight AI Pilot Onboarding,2025-10-09,VL-1040,cormac.abubakar@vandelay.example,Attended,2025-10-11
+IAI-02,Insight AI Pilot Onboarding,2025-10-09,VL-1193,leila.alvarado@vandelay.example,Attended,2025-10-09
+IAI-02,Insight AI Pilot Onboarding,2025-10-09,VL-1199,noa.moreau@vandelay.example,Attended,2025-10-12
+IAI-02,Insight AI Pilot Onboarding,2025-10-09,VL-1144,ada.obi@vandelay.example,Attended,2025-10-11
+IAI-02,Insight AI Pilot Onboarding,2025-10-09,VL-1197,ignacio.nwosu@vandelay.example,Attended,2025-10-11
+IAI-02,Insight AI Pilot Onboarding,2025-10-09,VL-1023,kenji.karlsson@vandelay.example,Attended,2025-10-12
+IAI-02,Insight AI Pilot Onboarding,2025-10-09,VL-1115,hana.vance@vandelay.example,Attended,2025-10-11
+IAI-02,Insight AI Pilot Onboarding,2025-10-09,VL-1018,devin.okoro@vandelay.example,Attended,2025-10-12
+IAI-02,Insight AI Pilot Onboarding,2025-10-09,VL-1017,lorenzo.alvarado@vandelay.example,Attended,2025-10-12
+IAI-02,Insight AI Pilot Onboarding,2025-10-09,VL-1151,kavya.sinclair@vandelay.example,Attended,2025-10-10
+IAI-02,Insight AI Pilot Onboarding,2025-10-09,VL-1049,sienna.mensah@vandelay.example,Registered - No show,
+IAI-02,Insight AI Pilot Onboarding,2025-10-09,VL-1056,tessa.voss@vandelay.example,Attended,2025-10-10
+IAI-02,Insight AI Pilot Onboarding,2025-10-09,VL-1042,ezra.molnar@vandelay.example,Attended,2025-10-09
